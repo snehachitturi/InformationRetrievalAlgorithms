@@ -1,5 +1,6 @@
 package w2_612;
 
+
 import java.util.*;
 public class InvertedIndex {
 	String[] myDocs;
